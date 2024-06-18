@@ -10,3 +10,4 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 "# B-i-t-p-03-Styling" 
+![image](https://github.com/nguyentramy1/B-i-t-p-03-Styling/assets/168984915/026a2103-fcb9-4981-a8c5-4706ad1bcf86)
